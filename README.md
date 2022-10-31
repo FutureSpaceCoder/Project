@@ -18,7 +18,7 @@ Rob’s Used Car Sales
 -
 
 ## Technologies Used 
-- .html, .css
+- .html, .css, Git/GitHub workflow
 
 ## Ideas for future improvements
 -
