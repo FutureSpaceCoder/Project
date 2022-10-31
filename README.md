@@ -81,7 +81,7 @@ What competitive advantage does your product have over this competitor?
 Website will give price quotes, location is closer, Properties of each vehicle will be on website. 
 
 What is your product's value proposition?
-At Rob’s used car sales, you get local friendly sales agents, financing, and the dependable vehicles. Use our webpage to get all the information you need before having to set foot at our lot. Prices, make/models, and what you could be approved for financing. 
+At Rob’s used car sales, you get local friendly sales agents, financing, and the dependable vehicles. Use our webpage to get all the information you need before having to set foot at our lot. Prices, make/models, and financing. 
 
 
 
