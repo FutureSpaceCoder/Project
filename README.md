@@ -16,13 +16,15 @@ Rob’s Used Car Sales
 - For this project, I developed an information-based website for a freelance fictitious business.
 
 ## Details on how to use it or what functionality is offered
--
+- Website will have three pages. A main page to view company info, location, sales agents names. A second page for financing to include a form to apply for approval. A third page to view all the cars in inventory. 
 
 ## Technologies Used 
 - .html, .css, Git/GitHub workflow
 
 ## Ideas for future improvements
--
+- Create a financing page for pre-approvals
+- Provide vehicle properties for customers to view
+- Provide vehicle prices on webpage 
 
 ## User stories
 - As a {small business owner}, I want to {buy a SUV}, so that I can {products/family to where they need to be}."
@@ -43,7 +45,7 @@ Who are the top three competitors?
 2.	Dwayne Lanes’s Arlington Chevrolet – Arlington WA
 3.	Rairdon’s Chrysler Dodge Jeep Ram of Marysville
 
-Competitor #1
+Competitor #1: 360 Auto Sales
 Is this competitor a direct competitor, or an indirect competitor?
 Direct Competitor
 What does this competitor offer to your target user?
@@ -52,9 +54,9 @@ What do users like about this competitor?	Staff
 What do users dislike about this competitor?
 Difficulty if financing 
 What competitive advantage does your product have over this competitor?
-Financing could be preapproved online. No web page or difficulty directing to web page 
+Financing could be preapproved online. They had no web page or difficulty directing to web page 
 
-Competitor #2:
+Competitor #2: Dwayne Lane's Arlington Chevrolet
 Is this competitor a direct competitor, or an indirect competitor?
 Direct Competitor 
 What does this competitor offer to your target user?
@@ -66,7 +68,7 @@ Overcharged for cars, extreme price changes on cars,
 What competitive advantage does your product have over this competitor?
 Less haggle on prices, location, more personable due to smaller size of dealership
 
-Competitor #3:
+Competitor #3: Rairdon's Chrysler Dodge Jeep Rem of Marysville
 Is this competitor a direct competitor, or an indirect competitor?
 Direct Competitor
 What does this competitor offer to your target user?
