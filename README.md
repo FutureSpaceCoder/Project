@@ -19,7 +19,7 @@ Rob’s Used Car Sales
 - Website will have three pages. A main page to view company info, location, sales agents names. A second page for financing to include a form to apply for approval. A third page to view all the cars in inventory. 
 
 ## Technologies Used 
-- .html, .css, Git/GitHub workflow
+- .html, .css, Javascript, Git/GitHub workflow
 
 ## Ideas for future improvements
 - Create a financing page for pre-approvals
