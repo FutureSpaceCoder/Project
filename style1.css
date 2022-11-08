@@ -33,12 +33,20 @@ section#carousel > figure.visible > figcaption {
 	font-size: 1.5em;
 	}
 
-section.features { width: 940px; height: 350px; background: rgb(220,220,220); margin: 0 auto 10px; padding: 5px 0; }
+section.features { width: 100%; height: 350px; background: rgb(220,220,220); margin: 0 auto 10px; padding: 5px 0; }
 	section.features h2 { font-size: 25px; text-align: center; margin-bottom: -20px; }
 	section.features h4 { font-weight: normal; text-align: center; margin-bottom: 40px; }
-	section.features aside { width: 286px; height: 200px; float: left; text-align: center; margin-left: 20px; }
+	section.features aside { width: 286px; height: 200px; float: left; text-align: center; margin-left: 14%; }
 	section.features aside img { width: 100%; height: 150px; background: rgb(200,200,200); }
 
 footer { width: 100%; height: 60px; background: rgb(200,200,200); padding: 5px 0; text-align: center; }
 
 .container { width: 940px; height: 100%; margin: 0 auto; }
+
+
+@media only screen and (max-width:1440px) {
+	section.features aside { width: 200px; }
+}
+@media only screen and (max-width:1024px) {
+	section.features aside { width: 140px; }
+}
