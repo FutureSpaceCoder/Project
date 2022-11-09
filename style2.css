@@ -1,6 +1,6 @@
 /*Contact page*/
 
-header { width: 100%; height: 80px; background: rgb(0,0,0); padding: 5px 5px; text-align: center;}
+header { width: 100%; height: 80px; background: rgb(0,0,0); padding: 5px 5px; }
 	nav { float:center;}
 	nav li { display:inline-flex; margin-right: 30px; font-weight: bold; font-size: 18px; }
 	nav li a { color: rgb(255,255,255); text-decoration: none; }
