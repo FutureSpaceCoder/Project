@@ -10,5 +10,8 @@ body { margin: 0; font-family: Verdana, sans-serif; color: rgb(100,100,100); pad
 	text-align: center; background-color: rgb(199, 198, 198); }
 	
 form {border-width: 5px; padding: 50px 10px; column-span: all; column-count: 2;
-    border-color: #111111;
-    border-style: inset solid;}
+    border-color: #111111; border-style: inset solid;}
+
+section {border-width: 5px; padding: 50px 10px; column-span: all;;
+border-color: #111111; border-style: inset solid;}
+
